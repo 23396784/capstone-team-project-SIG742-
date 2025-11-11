@@ -1,1 +1,11 @@
+# Cover Letter — SIG742 Capstone (Modern Data Science)
+
+Dear Hiring Manager,
+
+I recently completed a Master’s in Data Science at Deakin University and co-led a capstone project analysing 552k+ business reviews with PySpark, NLP, ARIMA vs LSTM forecasting, and a hybrid recommender. I owned Part 1 (data acquisition/EDA), while B. K. Chaitanya and Faris Dawod owned Parts 2 and 3 respectively. Key outcomes included uncovering timestamp anomalies, building a walk-forward ARIMA baseline, and an LSTM that matched performance, plus a memory-efficient hybrid KNN recommender.
+
+I’m excited to bring the same rigour to your team.
+
+Best regards,  
+Victor Prefa
 
